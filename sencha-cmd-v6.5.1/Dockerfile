@@ -7,6 +7,7 @@ RUN \
 # Install dependencies
     apt-get update && apt-get install -y --no-install-recommends \
         unzip \
+        zip \
         git \
         gulp \
         nodejs \
